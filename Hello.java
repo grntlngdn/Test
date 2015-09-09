@@ -14,6 +14,6 @@
 */
 public class Hello {
     public static void main(String[] args) {
-        System.out.println("Hello, and how will it work now?");
+        System.out.println("Hello, World");
     }
 }
